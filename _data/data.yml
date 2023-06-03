@@ -24,14 +24,14 @@ education:
     info:
       - degree: Undergraduate
         university: Gachon University, Computer Engineering
-        time: 2019 -
+        time: 2019 - present
         details: |
           3rd Grade
 experiences:
     title: Experiences
     info:
       - role: Undergraduate Intern
-        time: 2023 -
+        time: 2023 - present
         company: NOSLab, GCU
         details: |
           Summer Intern
