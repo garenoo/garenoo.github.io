@@ -3,9 +3,6 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Hyunwoo Kim
     tagline: Student
@@ -25,7 +22,7 @@ education:
     title: Education
     info:
       - degree: Undergraduate
-        university: Gachon University
+        university: Gachon University, Computer Engineering
         time: 2019 -
         details: |
           3rd Grad
