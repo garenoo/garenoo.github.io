@@ -9,8 +9,7 @@ sidebar:
     avatar: githubProfile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kkimh0425@naver.com
-    phone: 010 9914 8552
+    email: kkimh0425@gachon.ac.kr
     github: garenoo
 
 
@@ -33,4 +32,4 @@ experiences:
         time: 2023.06 - present
         company: NOSLab, GCU
         details: |
-          Summer Intern
+          Undergraduated
